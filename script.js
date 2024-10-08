@@ -36,5 +36,3 @@ function rollDice() {
       result.textContent = '';
       result.classList.remove('match', 'no-match');
   }
-  
-  
